@@ -15,17 +15,17 @@ Make sure you have **Node.js** and **PEAR** installed. If not, install them:
 
 ```sh
 npm install -g pear
-
+```
 
 ### 2 Clone the Repository
 ```sh
 git clone https://github.com/nakulsinghsisodia/P2P-ChatApp.git
 cd P2P-ChatApp
-
+```
 
 ### 3 Install Project Dependencies
 ```sh
 npm install
-
+```
 
 
